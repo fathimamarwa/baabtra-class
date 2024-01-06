@@ -1,0 +1,19 @@
+div{
+    color:yellow
+    background color:red;
+    border: spx double purple;
+    height: 200px ;
+    width: 500px;
+
+}
+#heading{
+    background color: red;
+    text_align: center;
+    font-style: italic;
+}
+.para{
+color:blueviolet;
+font-weight: bold;
+font-style: italic;
+background-color: lightgreen;
+}

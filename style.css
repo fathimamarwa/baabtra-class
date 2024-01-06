@@ -1,0 +1,41 @@
+<style>
+       #hy {
+        background-color: purple;
+        font-style: bold;
+        color: blueviolet;
+        border-radius: 7px;
+        }
+        .ay {
+
+            background-color: yellow;
+            border-radius:15px;
+            height:200px;
+            width:300px;
+            margin: 0 auto;
+            padding: 60px;           
+             text-align: center;
+        }
+
+        input{
+            border-radius: 8px;
+            height: 25px;
+            width: 200px;
+            border: none;
+        }
+        button{
+            height: 25px;
+            width: 100px; 
+             border-radius: 6px;
+            color: purple;
+            font-style: bold;
+        }
+        #loginbutton:hover{
+            color: red;      background-color: lime;
+            height: 30px;
+            width: 110px;
+            font-style: italic ;
+        }
+        </style>
+
+
+

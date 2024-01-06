@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       #bro {
+        background-color: rgb(239, 166, 218);
+        font-style: italic;
+        color: rgb(0, 0, 0);
+        }
+        .sis {
+
+            background-color: rgb(200, 255, 0);
+            border-radius:15px;
+            height:200px;
+            width:1000px;
+            margin: 0 auto;
+            padding: 50px;
+            
+        }
+
+        input{
+            border-radius: 8px;
+            height: 25px;
+            width: 200px;
+            border: none;
+        }
+        button{
+            height: 25px;
+            width: 100px;
+            border-radius: 6px;
+            color: purple;
+            font-style: italic;
+        }
+        seleor:hover
+        {
+            property:value;
+        }
+       
+    </style>
+</head>
+<body>
+    <div class="sis">
+        <h1 id="bro" style="color:rgb(215, 134, 203);">LOGIN</h1>
+    <form>
+        <input type="text" placeholder="username"><br><br>
+        <input type="password" placeholder="password"><br><br>
+        <button type="login">Login</button>
+
+    </form>
+    </div>
+    
+</body>
+</html>
